@@ -8,3 +8,4 @@ I'm a DevOps trainee in the Aurora cohort, learning in public.
 | 1 | Starting out |
 | 2 | Orientation prep |
 | 5 | Back on track |
+| 6 | Intro to DevOps |
