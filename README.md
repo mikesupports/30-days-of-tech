@@ -9,3 +9,4 @@ I'm a DevOps trainee in the Aurora cohort, learning in public.
 | 2 | Orientation prep |
 | 5 | Back on track |
 | 6 | Intro to DevOps |
+| 7 | DevOps lifecycle review
