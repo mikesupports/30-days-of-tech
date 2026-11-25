@@ -12,3 +12,4 @@ I'm a DevOps trainee in the Aurora cohort, learning in public.
 | 7 | DevOps lifecycle review
 | 13 | WSL setup |
 | 14 | Ubuntu on WSL |
+| 16 | Linux guided lab |
